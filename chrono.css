@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #4aee9c;
+    color: #333;
+  }
+  
+  .container {
+    margin-top: 50px;
+  }
+  
+  h1 {
+    font-size: 2em;
+  }
+  
+  #countdown {
+    font-size: 3em;
+    margin: 20px 0;
+    font-weight: bold;
+  }
+  
+  input, button {
+    padding: 10px;
+    font-size: 1em;
+  }
+  
+  button {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-left: 10px;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  #message {
+    font-size: 1.5em;
+    color: red;
+    margin-top: 20px;
+  }
+  
